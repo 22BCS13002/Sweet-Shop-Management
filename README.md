@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍬 Sweet Management System
 
 A full-stack MERN application for managing a sweet shop inventory with user authentication, admin controls, and comprehensive testing.
@@ -331,3 +332,6 @@ The application maintains high-quality standards with comprehensive testing:
 
 
 *Built Vikas Kumar with ❤️ using the MERN stack and modern development practices*
+=======
+# Sweet-Shop-Management
+>>>>>>> ceb733cd609f595b47b308b6334e155645ccd0e5
